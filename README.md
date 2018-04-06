@@ -6,3 +6,6 @@ You do this by dragging each of them with the mouse while pressing either G for 
 Just like the sea plants are looped, the switching between being together and not being together can be looped. Seahorse-Love is one big loop.
 
 The game is inspired by the seapunk aesthetic which was a popular internet aesthetic in the beginning of the 2010’s.
+
+![preview1](example_seahorses_apart.png)
+![preview2](example_seahorses_together.png)
